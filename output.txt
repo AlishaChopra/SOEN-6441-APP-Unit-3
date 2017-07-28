@@ -1,0 +1,12 @@
+the value of alpha is:2.3096 Radians
+the value of radius entered is:10.0
+the value of length is:11.918
+the value of alpha is:2.3096 Radians
+the value of radius entered is:4.0
+the value of length is:4.7672
+the value of alpha is:2.3096 Radians
+the value of radius entered is:4.0
+the value of length is:4.7672
+the value of alpha is:2.3096 Radians
+the value of radius entered is:5.0
+the value of length is:5.959
